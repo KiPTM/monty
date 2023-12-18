@@ -1,5 +1,4 @@
 #include "monty.h"
-#include <string.h>
 
 int execute_file(const char *file_path) {
     FILE *file;

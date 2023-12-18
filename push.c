@@ -1,6 +1,4 @@
 #include "monty.h"
-#include <stdlib.h>
-#include <stdio.h>
 
 void push(stack_t **stack, int value, unsigned int line_number) {
     stack_t *new_node;

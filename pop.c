@@ -1,6 +1,4 @@
 #include "monty.h"
-#include <stdio.h>
-
 /**
  * pop - Removes the top element of the stack
  * @stack: Double pointer to the head of the stack

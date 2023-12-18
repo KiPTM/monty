@@ -1,6 +1,4 @@
 #include "monty.h"
-#include <stdio.h>
-
 /**
  * nop - Doesn't do anything
  * @stack: Double pointer to the head of the stack
