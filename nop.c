@@ -7,8 +7,8 @@
  * Description: This function does nothing.
  * It's used as an opcode that doesn't perform any operation.
  */
-void nop(stack_t **stack, unsigned int line_number) {
-    (void)stack;
-    (void)line_number;
-    /* No operation, simply returns without doing anything */
+void nop(stack_t **stack, unsigned int line_number)
+{
+	(void)stack;
+	(void)line_number;
 }
